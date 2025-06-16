@@ -2,7 +2,7 @@ from autogen_agentchat.agents import AssistantAgent
 from autogen_agentchat.ui import Console
 from autogen_ext.models.openai import OpenAIChatCompletionClient
 
-API_KEY = "AIzaSyDWvq6A2prs78TBV5UfZHrAjql7MrBgeD8" 
+API_KEY = "YOurkey"
 
 # Define a model client. You can use other model client that implements
 # the `ChatCompletionClient` interface.

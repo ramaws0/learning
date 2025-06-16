@@ -3,7 +3,7 @@
 from autogen import ConversableAgent, GroupChat, GroupChatManager
 
 # Your Gemini API key
-API_KEY = "AIzaSyDWvq6A2prs78TBV5UfZHrAjql7MrBgeD8"
+API_KEY = "YOurkey"
 
 # Common LLM config
 llm_config = {

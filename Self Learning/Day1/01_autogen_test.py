@@ -4,7 +4,7 @@
 from autogen import ConversableAgent  # Correct import
 
 # Fix 2: Proper Gemini configuration
-API_KEY = "AIzaSyDWvq6A2prs78TBV5UfZHrAjql7MrBgeD8"
+API_KEY = "YOurkey"
 
 # Fix 3: Configure for Gemini properly
 agent = ConversableAgent(
