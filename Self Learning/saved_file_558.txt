@@ -1,0 +1,1 @@
+{ "quotes": [{"author":"Virginia Woolf","quote":"One cannot think well, love well, if one has not bread enough."}, {"author":"Maya Angelou","quote":"Still, I rise."}]}
